@@ -1,0 +1,11 @@
+env
+
+.DS_Store
+.vscode
+
+# Ignore Images if any
+*.tif
+*.jpg
+*.psb
+*.psd
+*.zip
